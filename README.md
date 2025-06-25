@@ -3,7 +3,7 @@
 DoodleMind is a web application that anlyses our daily journal with ai and summarizes it 
 
 ## Example 
-![Example](![Example](URL_ADDRESS.com/Aniket200204/DOODLEMIND/blob/main/Example.png)
+![Example](![Example](https://github.com/a-n-a-s/aijournal-hackweek/blob/main/screenshots/Screenshot%20(188).png)
 this is your summary
 
 ### Ai Results
